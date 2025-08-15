@@ -3,7 +3,6 @@
 
 This project features a dynamic and interactive dashboard built in Microsoft Excel to analyze bike sales performance. It leverages Pivot Tables and Slicers to provide a comprehensive overview of sales data, allowing for easy exploration of key business metrics.
 
----
 
 ## Dashboard Preview
 
@@ -11,7 +10,6 @@ Below is a preview of the final interactive dashboard. The slicers allow for rea
 
 ![Dashboard Preview](images/dashboard.png)
 
----
 
 ## Features & Key Analyses
 
@@ -26,13 +24,14 @@ This dashboard provides insights into several key performance indicators. The en
 * **Top 10 Customers:** Identifies the most valuable customers by revenue.
 * **Revenue per Sales Representative:** Measures individual and team sales performance.
 
-### Project Structure Example:
+## Project Structure Example:
 
-| Data Sample                  | Pivot Table Setup              |
-| ---------------------------- | ------------------------------ |
-| ![*Data Sample*](images/data.png) | ![*Pivot Table Example*](images/pivottable.png) |
+**Data Sample**              
+![*Data Sample*](images/data.png) 
 
----
+**Pivot Table Setup**
+![*Pivot Table Example*](images/pivottable.png)
+
 
 ## Tools Used
 
@@ -40,7 +39,6 @@ This dashboard provides insights into several key performance indicators. The en
 * **Pivot Tables:** Used for summarizing and aggregating large datasets to extract meaningful patterns.
 * **Slicers & Timelines:** Implemented for creating an intuitive and interactive user experience, allowing for easy data filtering.
 
----
 
 ## How to Use
 
